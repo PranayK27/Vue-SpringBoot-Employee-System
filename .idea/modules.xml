@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ES-vuejs-frontend.iml" filepath="$PROJECT_DIR$/ES-vuejs-frontend.iml" />
       <module fileurl="file://$PROJECT_DIR$/Employee System.iml" filepath="$PROJECT_DIR$/Employee System.iml" />
     </modules>
   </component>

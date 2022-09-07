@@ -1,25 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="090fe748-f120-48e2-b0f5-86e27305dabf" name="Changes" comment="" />
+    <list default="true" id="090fe748-f120-48e2-b0f5-86e27305dabf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/src/main/java/com/es/esspringbootbackend/EsSpringbootBackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/src/main/java/com/es/esspringbootbackend/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/src/main/java/com/es/esspringbootbackend/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/src/main/java/com/es/esspringbootbackend/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES-springboot-backend/src/test/java/com/es/esspringbootbackend/EsSpringbootBackendApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a955193eb9fcdcd6ffb23f8f1bad5cdea7edf28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31e7cc2366ad346c660bc21369969e20a534c9a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cdfa4d6219f0ea66c66e59cdf9a81c4a9ec4b9e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6942e83714f3beee47adff0756ee71b549b8a41a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b390e8bf88b0482fd30c477c0e14bc35b5850202" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbe79c7d05c101d14f5df9a1e423764935c746df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc11b1bc094469dd5d7ad251ad06d86fdaaaa4d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c15584c5eecec09df3ea347cef581f537506b18c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES-vuejs-frontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ES-vuejs-frontend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/src/components/EmployeesList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/src/components/EmployeesList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/vue.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2EMH7TXgC9Ovw3IP1BBTnvpcSzC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/Users/pranay/IdeaProjects/Employee System/ES-vuejs-frontend/vue-frontend/src/components",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/src/components" />
+      <recent name="$PROJECT_DIR$/ES-vuejs-frontend/vue-frontend/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +104,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662398365617</updated>
+      <workItem from="1662398368026" duration="290000" />
+      <workItem from="1662399206757" duration="270000" />
+      <workItem from="1662453043918" duration="9537000" />
+      <workItem from="1662538240759" duration="507000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/springboot-backend" />
+    </ignored-roots>
   </component>
 </project>

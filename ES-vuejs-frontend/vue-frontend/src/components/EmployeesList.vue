@@ -8,7 +8,7 @@
       <tr>
         <th> Employee Id</th>
         <th> Employee First Name</th>
-        <th> Employee Last</th>
+        <th> Employee Last Name</th>
         <th> Employee Email</th>
       </tr>
 
@@ -30,7 +30,7 @@
 import EmployeeService from '../services/EmployeeService';
 
 export default {
-  name: 'employees-list',
+  name: 'EmployeeS',
   data(){
     return {
       employees: []

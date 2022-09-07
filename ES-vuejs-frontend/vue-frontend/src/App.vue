@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Employees from './components/Employees.vue'
+import Employees from './components/EmployeesList.vue'
 
 export default {
   name: 'App',
