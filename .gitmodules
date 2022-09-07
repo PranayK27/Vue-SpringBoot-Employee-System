@@ -3,4 +3,4 @@
 	url = https://github.com/PranayK27/Vue-SpringBoot-Employee-System.git
 [submodule "ES-springboot-backend"]
 	path = ES-springboot-backend
-	url = ./ES-springboot-backend
+	url = https://github.com/PranayK27/Vue-SpringBoot-Employee-System.git
