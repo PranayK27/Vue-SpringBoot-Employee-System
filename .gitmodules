@@ -1,0 +1,3 @@
+[submodule "Vue-SpringBoot-Employee-System"]
+	path = Vue-SpringBoot-Employee-System
+	url = https://github.com/PranayK27/Vue-SpringBoot-Employee-System.git
