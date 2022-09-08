@@ -33,7 +33,26 @@ export default {
   name: 'EmployeeS',
   data(){
     return {
-      employees: []
+      employees: [
+        {
+          "id": 1,
+          "firstName": "Josh",
+          "lastName": "Underwood",
+          "email": "ramesh@gmail.com"
+        },
+        {
+          "id": 2,
+          "firstName": "Peter",
+          "lastName": "Parker",
+          "email": "tony@gmail.com"
+        },
+        {
+          "id": 3,
+          "firstName": "Chris",
+          "lastName": "Evans",
+          "email": "cena@gmail.com"
+        }
+      ]
     }
   },
   methods: {
